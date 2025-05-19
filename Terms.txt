@@ -1,24 +1,116 @@
-Terms and Conditions
-Effective Date: April 19, 2025
-Welcome to Landscape Designer ("the App"). These Terms and Conditions govern your use of the App. By using the App, you agree to these Terms.
-
-App Features
-The App allows users to design and visualize outdoor spaces using augmented reality (AR) technology. Users can place virtual plants and furniture in their environment through their device's camera.
-Subscription
-The App offers subscription plans on a monthly or annual basis. Payment and billing are handled through your device's app store platform.
-Intellectual Property
-All 3D models, designs, and assets provided within the App are the exclusive property of Landscape Designer and may not be used outside of the App for any purpose. Users may not extract, copy, or repurpose these assets.
-
-Privacy Policy
+# Privacy Policy
 Effective Date: April 19, 2025
 
-Data Collection and Storage
+## 1. Introduction
+Welcome to Landscape Designer ("the App"). This privacy policy explains how we handle your data, with specific attention to our use of AR technology and depth sensing capabilities.
 
+## 2. AR Technology and Depth Sensing
+### 2.1 Data Collection
+The App utilizes Apple's ARKit and depth sensing capabilities to provide augmented reality landscape design features. This includes:
+- Environmental depth data
+- Spatial mapping information
+- Scene reconstruction data
+- AR anchor points and world mapping
 
-The App requires camera access to provide AR functionality.
-No image or video data is recorded or stored on our servers.
-All AR scenes and designs are stored locally on your device.
-We do not collect or store any personal user data on our servers.
+### 2.2 Purpose and Usage
+This technical data is collected solely for:
+- Enabling accurate placement of virtual landscape elements
+- Maintaining persistent AR experiences
+- Saving and restoring landscape design projects
+- Ensuring realistic interaction between virtual objects and physical surfaces
 
-Contact
-For questions or concerns about these policies, please contact us at landscapedesignerofficial@gmail.com
+### 2.3 Data Storage and Security
+All depth sensing and spatial mapping data:
+- Is stored exclusively on your local device
+- Never leaves your device or gets transmitted to external servers
+- Is saved only in the app's secure documents directory
+- Can be deleted at any time by removing the app or its saved projects
+
+### 2.4 Data Retention
+- AR data is retained only as long as needed for your saved projects
+- Data is automatically removed when you delete projects or uninstall the app
+- No backups of this data are created on external servers
+
+## 3. Camera and Device Permissions
+### 3.1 Required Permissions
+The App requires:
+- Camera access for AR functionality
+- Local storage access for saving projects
+- Motion and orientation sensor access for AR tracking
+
+### 3.2 Usage Limitations
+These permissions are used exclusively for:
+- Providing AR visualization features
+- Saving your landscape designs
+- Enabling project persistence
+
+## 4. Data Collection and Storage
+### 4.1 Local Storage
+- All AR scenes and designs are stored locally on your device
+- Project files contain environmental mapping data for persistence
+- No user data is transmitted to external servers
+
+### 4.2 Analytics and Diagnostics
+- Basic app usage analytics may be collected
+- No depth sensing or spatial mapping data is included in analytics
+- Crash reports contain no environmental or depth data
+
+## 5. Third-Party Access
+- No depth sensing or spatial mapping data is shared with third parties
+- No environmental data is used for advertising or tracking
+- All AR functionality processes happen exclusively on-device
+
+## 6. User Rights and Control
+You have the right to:
+- Delete any or all saved projects
+- Remove all stored AR data by uninstalling the app
+- Control camera and sensor access through device settings
+
+## 7. Changes to This Policy
+We reserve the right to update this privacy policy. Users will be notified of any material changes.
+
+## 8. Contact Information
+For questions about this privacy policy or our data practices:
+Email: landscapedesignerofficial@gmail.com
+
+# Terms and Conditions
+Effective Date: April 19, 2025
+
+## 1. App Features and Technology
+### 1.1 AR Functionality
+- The App uses augmented reality technology for landscape design visualization
+- Features include real-time object placement, environment mapping, and project persistence
+- AR functionality requires compatible hardware and adequate lighting conditions
+
+### 1.2 Data Usage
+- Environmental data is collected solely for AR functionality
+- All project data remains local to your device
+- No user data is uploaded to external servers
+
+## 2. Subscription and Payments
+- Subscription plans available monthly or annually
+- Payments processed through your device's app store platform
+- Automatic renewal can be managed in your store settings
+
+## 3. Intellectual Property
+- All 3D models, designs, and assets are exclusive property of Landscape Designer
+- Assets may not be extracted or used outside the App
+- User-created designs are owned by the user but bound by app limitations
+
+## 4. Usage Restrictions
+Users may not:
+- Extract or copy 3D models or assets
+- Reverse engineer the App
+- Use the App for unauthorized commercial purposes
+
+## 5. Privacy and Data
+- Users agree to our Privacy Policy
+- AR and depth sensing features used as described in Privacy Policy
+- All data storage is local to user devices
+
+## 6. Modifications
+We reserve the right to modify these terms. Users will be notified of significant changes.
+
+## 7. Contact
+For questions or concerns:
+Email: landscapedesignerofficial@gmail.com
