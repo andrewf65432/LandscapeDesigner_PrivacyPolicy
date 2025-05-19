@@ -12,6 +12,16 @@ The App utilizes Apple's ARKit and depth sensing capabilities to provide augment
 - Scene reconstruction data
 - AR anchor points and world mapping
 
+  ### 2.1.1 Non-Collection of Facial Data
+  The App explicitly DOES NOT:
+  - Collect any facial mapping data
+  - Use the TrueDepth camera for face scanning
+  - Store or process any facial features or expressions
+  - Access front-facing depth camera data
+  - Process or store any face-related measurements or identifiers
+
+Our depth sensing features are used exclusively for environmental scanning through the rear-facing camera to enable landscape design features. We have no functionality that involves facial recognition, facial mapping, or front-facing depth sensing.
+
 ### 2.2 Purpose and Usage
 This technical data is collected solely for:
 - Enabling accurate placement of virtual landscape elements
@@ -81,6 +91,13 @@ Effective Date: April 19, 2025
 - The App uses augmented reality technology for landscape design visualization
 - Features include real-time object placement, environment mapping, and project persistence
 - AR functionality requires compatible hardware and adequate lighting conditions
+
+  ### 1.1.1 Camera Usage Limitations
+  The App:
+  - Uses only the rear-facing camera for AR landscape design
+  - Does not utilize the front-facing TrueDepth camera
+  - Does not collect, process, or store any facial data
+  - Has no facial recognition or facial mapping features
 
 ### 1.2 Data Usage
 - Environmental data is collected solely for AR functionality
